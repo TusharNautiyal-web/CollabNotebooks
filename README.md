@@ -16,3 +16,5 @@
 4. Clustering Wine Quality using K means <a href = 'https://colab.research.google.com/drive/1TQ5c2r0zZjGtXzfUVdtdH969li4S2RdS'>**Go To notebok**</a> 
 
 5. Understanding Natural Language Processing Techniques Basics Bag of Words, Lemattizing etc. <a href = 'https://colab.research.google.com/drive/1_fTnzzu5UWpfyINhnS54ED6Kx8SPeIUP?usp=sharing'>**Go to Notebook**</a>
+
+6. Understanding Natural Language Processing Techniques Basics TF-IDF <a href = 'https://colab.research.google.com/drive/1DgyJJPoSLuPPpN9C26NBsAWzDgh-v6GB?usp=sharing'>**Go to Notebook**</a>
