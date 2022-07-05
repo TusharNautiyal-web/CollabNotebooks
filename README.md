@@ -11,3 +11,5 @@
 2. Credit Card Users Clustering and Applying Ml model to group or predict clusters, Deployed using Streamlit and LocalTunnel<a href = 'https://colab.research.google.com/drive/1_MgBbfDkbm1G__xpLaamLqF6Xtch4XNQ?usp=sharing'>**Go To notebok**</a> 
 3. Titanic Dataset Notebook Eda and creating model <a href = 'https://colab.research.google.com/drive/1_0MWrKlJGzkh3fMEcBy2O_jMRs6p8amB?usp=sharing'>**Go To notebok**</a> 
 4. Clustering Wine Quality using K means <a href = 'https://colab.research.google.com/drive/1TQ5c2r0zZjGtXzfUVdtdH969li4S2RdS'>**Go To notebok**</a> 
+
+5. Understanding Natural Language Processing Techniques Basics Bag of Words, Lemattizing etc. < a href = 'https://colab.research.google.com/drive/1_fTnzzu5UWpfyINhnS54ED6Kx8SPeIUP?usp=sharing'>**Go to Notebook**</a>
