@@ -18,3 +18,5 @@
 5. Understanding Natural Language Processing Techniques Basics Bag of Words, Lemattizing etc. <a href = 'https://colab.research.google.com/drive/1_fTnzzu5UWpfyINhnS54ED6Kx8SPeIUP?usp=sharing'>**Go to Notebook**</a>
 
 6. Understanding Natural Language Processing Techniques Basics TF-IDF <a href = 'https://colab.research.google.com/drive/1DgyJJPoSLuPPpN9C26NBsAWzDgh-v6GB?usp=sharing'>**Go to Notebook**</a>
+
+7. Understanding Artificial Neural Network Ann <a href = 'https://colab.research.google.com/drive/1Dy3K7518YOX-X6t74Yz7lURhuPS3L_O6?usp=sharing'>**Go To Notebook**</a>
