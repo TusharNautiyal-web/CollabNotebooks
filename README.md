@@ -20,3 +20,5 @@
 6. Understanding Natural Language Processing Techniques Basics TF-IDF <a href = 'https://colab.research.google.com/drive/1DgyJJPoSLuPPpN9C26NBsAWzDgh-v6GB?usp=sharing'>**Go to Notebook**</a>
 
 7. Understanding Artificial Neural Network Ann <a href = 'https://colab.research.google.com/drive/1Dy3K7518YOX-X6t74Yz7lURhuPS3L_O6?usp=sharing'>**Go To Notebook**</a>
+
+8. Understanding Convolutional Neural Network CNN <a href = 'https://colab.research.google.com/drive/1-CejX_v7QRYBslUMjfKCiOTmhOE_bNXG?usp=sharing'>**Go To Notebook**</a>
